@@ -28,7 +28,7 @@ const Projects = () => {
       tech: ["Pandas", "XGBoost", "Matplotlib"],
       image: "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170", // 🔹 Add your image path here
       github: "https://github.com/yourusername/house-price-prediction",
-      live: "https://yourdemoapp.com",
+      live: "https://my-first-machien-learning-project.onrender.com/",
     },
   ];
 
