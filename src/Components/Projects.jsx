@@ -8,8 +8,8 @@ const Projects = () => {
         "Built a classification model using patient medical data to predict heart disease risk. Achieved 85% accuracy with Random Forest and deployed using Streamlit.",
       tech: ["Python", "Scikit-learn", "Streamlit"],
       image: "https://images.unsplash.com/photo-1628348070889-cb656235b4eb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170", // 🔹 Add your image path here
-      github: "https://github.com/yourusername/heart-disease-prediction",
-      live: "https://yourstreamlitapp.com",
+      github: "https://github.com/DeepanshuKashyap531/heart_disease_modal",
+      live: "https://heart-disease-modal.onrender.com",
     },
     {
       title: "Buldozer Price Prediction",
